@@ -1,5 +1,3 @@
-### Hi There, I'm Disha 👋
-
 # 💫 About Me:
  Hi, I’m Disha Rana. Welcome to my Github. <br> 
 
