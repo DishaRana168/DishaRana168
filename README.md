@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hi, I’m Disha Rana. Welcome to my Github. <br> 
 
- I am undergraduate student pursuing a Bachelors Degree in **Information Technology** with a concentration in **Network and Information Security**, at **New Jersey Institute of Technology(NJIT).** 
+ I am undergraduate student pursuing my Bachelors Degree in **Information Technology** with a concentration in **Network and Information Security**, at **New Jersey Institute of Technology(NJIT).** 
 
 This GitHub is to show my various different projects that I have done:<br>
 - E - Commerce website
