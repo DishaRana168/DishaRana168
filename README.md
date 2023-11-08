@@ -7,6 +7,7 @@ This GitHub is to show my various different projects that I have done:<br>
 - E - Commerce website
 - Online Bookstore 
 - Hangman
+- Number Guesser
 - Simple Bank
 - Simple Arcade
  
